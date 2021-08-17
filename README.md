@@ -2,7 +2,8 @@
 ## Pré-requisitos
 - JDK8
 - Maven
-- IDE 
+- Visual Studio Code
+- Extensão para IDE `Cucumber (Gherkin) Full Support`
 
 ## Entendendo o código
 `RunnerTest.java`: chama as features, as features chamam os steps, os steps chamam as pages. <br>
