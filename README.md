@@ -5,6 +5,9 @@
 - Visual Studio Code
 - Extensão para IDE `Cucumber (Gherkin) Full Support`
 
+## Como executar os testes?
+>mvn clean compile test
+
 ## Entendendo o código
 `RunnerTest.java`: chama as features, as features chamam os steps, os steps chamam as pages. <br>
 `tests`: cria o teste que vai rodar, no caso do RunnerTest.java. <br>
