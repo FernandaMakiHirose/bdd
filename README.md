@@ -4,6 +4,9 @@
 - Maven
 - IDE 
 
+## Entendendo o código
+`RunnerTest.java`: chama as features, as features chamam os steps, os steps chamam as pages.
+
 ## Artigos para estudo
 - [O que é o BDD?](https://zoop.com.br/blog/gestao/o-que-e-bdd-como-implementar/) 
 - [Seus benefícios](https://auditeste.com.br/o-que-e-bdd-e-quais-sao-os-seus-beneficios/).
