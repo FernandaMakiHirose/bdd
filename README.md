@@ -5,10 +5,10 @@
 - IDE 
 
 ## Entendendo o código
-`RunnerTest.java`: chama as features, as features chamam os steps, os steps chamam as pages.
-`tests`: cria o teste que vai rodar, no caso do RunnerTest.java.
-`steps`: após as features serem definidas chama os steps, que são os passos a serem implementados.
-`pages`: é onde o selenium age.
+`RunnerTest.java`: chama as features, as features chamam os steps, os steps chamam as pages. <br>
+`tests`: cria o teste que vai rodar, no caso do RunnerTest.java. <br>
+`steps`: após as features serem definidas chama os steps, que são os passos a serem implementados. <br>
+`pages`: é onde o selenium age. <br>
 
 ## Artigos para estudo
 - [O que é o BDD?](https://zoop.com.br/blog/gestao/o-que-e-bdd-como-implementar/) 
