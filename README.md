@@ -1,4 +1,6 @@
 # Introdução a Behavior Driven Development (BDD) com Java
+Neste projeto fiz uma automação de dados de uma loja para preencher um cadastro, adicionar um produto no carrinho e efetuar uma compra.
+
 ## Pré-requisitos
 - JDK8
 - Maven
