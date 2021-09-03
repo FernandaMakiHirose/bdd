@@ -7,6 +7,9 @@ Neste projeto fiz uma automação de dados de uma loja para preencher um cadastr
 - Visual Studio Code
 - Extensão para IDE `Cucumber (Gherkin) Full Support`
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Como executar os testes?
 >mvn clean compile test
 
